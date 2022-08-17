@@ -1,2 +1,3 @@
-# js
-JavaScript projects
+### js
+
+JavaScript course, exercises and projects
